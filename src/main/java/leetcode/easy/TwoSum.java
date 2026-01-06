@@ -9,7 +9,7 @@ public class TwoSum {
 
         for (int i = 0; i < nums.length; i++) {
 
-            int compliment = target - nums[i];
+           int compliment = target - nums[i];
 
             if (solution.containsKey(compliment)) {
                 return new int[]{solution.get(compliment), i};
