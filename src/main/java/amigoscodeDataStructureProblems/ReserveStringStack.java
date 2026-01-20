@@ -1,4 +1,4 @@
-package com.leetcode.easy;
+package amigoscodeDataStructureProblems;
 
 import java.util.Stack;
 
